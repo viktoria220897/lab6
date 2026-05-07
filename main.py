@@ -1,1 +1,1 @@
-print('изменение в клоне')
+print('Resolved conflict version')
